@@ -1,4 +1,4 @@
-# Cache-behavior-with-Multiprocessor-in-computer-architecture-using-MESI-Protocol
+# Cache behavior with Uniprocessor in Computer Architecture 
 The implementation of my project "3-level memory hierarchy" comprised of interacting L1 and L2 cache controllers and a memory.
 Included components are CPU Controler, L1Cache Controler,L2Cache Controler,L1Data, L2Data, Memory, Victim cache, L1 Write buffer and L2Write Buffer.
 
