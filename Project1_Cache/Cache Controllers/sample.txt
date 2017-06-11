@@ -1,0 +1,2 @@
+instruction1
+Load 10101010101100000 2
